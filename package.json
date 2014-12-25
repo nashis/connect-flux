@@ -1,0 +1,20 @@
+{
+  "name": "connect-flux",
+  "author": "Ashis Nayak",
+  "description": "This is a rewrite of connect application using flux + react.js",
+  "dependencies": {},
+  "devDependencies": {
+    "file-loader": "^0.8.1",
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.1",
+    "webpack": "^1.4.14",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nashis/connect-flux"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
