@@ -1,6 +1,6 @@
 # Connect Flux
 
-This is a rewrite of the connect application implemneted with flux architecture using react.js
+This is a rewrite of the connect application implemented with flux architecture using react.js
 
 ### Running
 

@@ -5,7 +5,7 @@ var webpackConfig = require("./webpack.config.js");
 var webpackDevServer = require("webpack-dev-server");
 
 gulp.task("webpack-dev-server", function(callback) {
-	var compiler = webpack(webpackConfig);
+    var compiler = webpack(webpackConfig);
 
     new webpackDevServer(compiler, {
     })
